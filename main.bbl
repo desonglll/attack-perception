@@ -1,0 +1,142 @@
+\begin{thebibliography}{10}
+
+\bibitem{Ayodeji2020}
+A.~Ayodeji, Y.-k. Liu, N.~Chao, and L.-q. Yang.
+\newblock A new perspective towards the development of robust data-driven intrusion detection for industrial control systems.
+\newblock {\em Nuclear Engineering and Technology}, 52(12):2687--2698, 2020.
+
+\bibitem{Hu2021Decentralized}
+Bowen Hu, Chunjie Zhou, Yu-Chu Tian, Xiaoya Hu, and Xinjue Junping.
+\newblock Decentralized consensus decision-making for cybersecurity protection in multimicrogrid systems.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics: Systems}, 51(4):2187--2198, 2021.
+
+\bibitem{Huang2020Game}
+Kaixing Huang, Chunjie Zhou, Yuanqing Qin, and Weixun Tu.
+\newblock A game-theoretic approach to cross-layer security decision-making in industrial cyber-physical systems.
+\newblock {\em IEEE Transactions on Industrial Electronics}, 67(3):2371--2379, 2020.
+
+\bibitem{Huang2018Assessing}
+Kaixing Huang, Chunjie Zhou, Yu-Chu Tian, Shuanghua Yang, and Yuanqing Qin.
+\newblock Assessing the physical impact of cyberattacks on industrial cyber-physical systems.
+\newblock {\em IEEE Transactions on Industrial Electronics}, 65(10):8153--8162, 2018.
+
+\bibitem{Huang2023}
+Xianting Huang, Jing Liu, Yingxu Lai, Beifeng Mao, and Hongshuo Lyu.
+\newblock Eefed: Personalized federated learning of execution \& evaluation dual network for cps intrusion detection.
+\newblock {\em IEEE Transactions on Information Forensics and Security}, 18:41--56, 2023.
+
+\bibitem{Jiang2020}
+Feng Jiang, Yunsheng Fu, B.~B. Gupta, Yongsheng Liang, Seungmin Rho, Fang Lou, Fanzhi Meng, and Zhihong Tian.
+\newblock Deep learning based multi-channel intelligent attack detection for data security.
+\newblock {\em IEEE Transactions on Sustainable Computing}, 5(2):204--211, April--June 2020.
+
+\bibitem{Jin2024}
+Zizhi Jin, Qinhong Jiang, Xuancun Lu, Chen Yan, Xiaoyu Ji, and Wenyuan Xu.
+\newblock Phantomlidar: Cross-modality signal injection attacks against lidar.
+\newblock In {\em Network and Distributed System Security (NDSS) Symposium 2024}, pages 173--198, San Diego, CA, USA, February 2024.
+
+\bibitem{Khodayari2024}
+Soheil Khodayari, Thomas Barber, and Giancarlo Pellegrino.
+\newblock The great request robbery: An empirical study of client-side request hijacking vulnerabilities on the web.
+\newblock In {\em 2024 IEEE Symposium on Security and Privacy (SP)}, pages 166--184, San Francisco, USA, May 2024.
+
+\bibitem{Li2023ModelDriven}
+Xinge Li, Xiaoya Hu, Rongqing Zhang, Chunjie Zhou, Quan Yin, and Liuqing Yang.
+\newblock A model-driven security analysis approach for 5g communications in industrial systems.
+\newblock {\em IEEE Transactions on Wireless Communications}, 22(2):889--902, 2023.
+
+\bibitem{Li2023}
+Xiulai Li, Jieren Cheng, Zhaoxin Shi, Jingxin Liu, Bin Zhang, Xinbing Xu, Xiangyan Tang, and Victor~S. Sheng.
+\newblock Blockchain security threats and collaborative defense: A literature review.
+\newblock {\em Computers, Materials \& Continua}, 76(3):2597--2629, 2023.
+
+\bibitem{Li2019Dynamic}
+Xuan Li, Chunjie Zhou, Yu-Chu Tian, and Yuanqing Qin.
+\newblock A dynamic decision-making approach for intrusion response in industrial control systems.
+\newblock {\em IEEE Transactions on Industrial Informatics}, 15(5):2544--2554, 2019.
+
+\bibitem{Ma2024AIWebshell}
+M.~Ma, L.~Han, and C.~Zhou.
+\newblock Research and application of artificial intelligence based webshell detection model: A literature review, 2024.
+
+\bibitem{Sahu2021}
+A.~Sahu, Z.~Mao, P.~Wlazlo, H.~Huang, K.~Davis, A.~Goulart, and S.~Zonouz.
+\newblock Multi-source multi-domain data fusion for cyberattack detection in power systems.
+\newblock {\em IEEE Access}, 9:1--12, 2021.
+
+\bibitem{Sun2023FewShot}
+H.~Sun, Y.~Huang, L.~Han, and C.~Zhou.
+\newblock Few-shot detection of anomalies in industrial cyber-physical system via prototypical network and contrastive learning.
+\newblock {\em arXiv:2302.10601 [cs.CR]}, 2023.
+
+\bibitem{Yang2021Zoning}
+Jun Yang, Chunjie Zhou, Yu-Chu Tian, and Chao An.
+\newblock A zoning-based secure control approach against actuator attacks in industrial cyber-physical systems.
+\newblock {\em IEEE Transactions on Industrial Electronics}, 68(3):2637--2647, 2021.
+
+\bibitem{Yang2018Anomaly}
+Jun Yang, Chunjie Zhou, Shuanghua Yang, Haizhou Xu, and Bowen Hu.
+\newblock Anomaly detection based on zone partition for security protection of industrial cyber-physical systems.
+\newblock {\em IEEE Transactions on Industrial Electronics}, 65(5):4257--4267, 2018.
+
+\bibitem{Yin2024}
+Zhen Yin, Wei Wang, Xiaozhen Lu, and Zhisheng Yin.
+\newblock Multi-level collaborative defense strategies against malicious traffic in wireless edge networks.
+\newblock In {\em 2024 IEEE/CIC International Conference on Communications in China (ICCC Workshops)}, pages 185--190, Nanjing, China, January--June 2024.
+
+\bibitem{Yuan2024}
+Bin Yuan, Maogen Yang, Zhen Xu, Qunjinming Chen, Zhanxiang Song, Zhen Li, Deqing Zou, and Hai Jin.
+\newblock Leakage of authorization-data in iot device sharing: New attacks and countermeasure.
+\newblock {\em IEEE Transactions on Dependable and Secure Computing}, 21(4):3196--3210, July--August 2024.
+
+\bibitem{Zhang2019}
+F.~Zhang, H.~A. D.~E. Kodituwakku, J.~W. Hines, and J.~Coble.
+\newblock Multilayer data-driven cyber-attack detection system for industrial control systems based on network, system, and process data.
+\newblock {\em IEEE Transactions on Industrial Informatics}, 15(7):4362--4369, 2019.
+
+\bibitem{Zhang2016Multimodel}
+Qi~Zhang, Chunjie Zhou, Naixue Xiong, Yuanqing Qin, Xuan Li, and Shuang Huang.
+\newblock Multimodel-based incident prediction and risk assessment in dynamic cybersecurity protection for industrial control systems.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics: Systems}, 46(10):1429--1444, 2016.
+
+\bibitem{Zhao2022AntiSaturation}
+Yue Zhao, Xin Du, Chunjie Zhou, and Yu-Chu Tian.
+\newblock Anti-saturation resilient control of cyber-physical systems under actuator attacks.
+\newblock {\em Information Sciences}, 608:1245--1260, 2022.
+
+\bibitem{Zhao2022Adaptive}
+Yue Zhao, Xin Du, Chunjie Zhou, Yu-Chu Tian, Xiaoya Hu, and Daniel~E. Quevedo.
+\newblock Adaptive resilient control of cyber-physical systems under actuator and sensor attacks.
+\newblock {\em IEEE Transactions on Industrial Informatics}, 18(5):3203--3212, 2022.
+
+\bibitem{Zhao2023Composite}
+Yue Zhao, Chunjie Zhou, Yu-Chu Tian, and Yuanqing Qin.
+\newblock Composite finite-time resilient control for cyber-physical systems subject to actuator attacks.
+\newblock {\em IEEE Transactions on Cybernetics}, 53(2):1063--1077, 2023.
+
+\bibitem{Zhao2022L2}
+Yue Zhao, Chunjie Zhou, Yu-Chu Tian, Yuanqing Qin, and Xiaoya Hu.
+\newblock $l_2$ gain secure control of cyber-physical systems under fast time-varying cyber attacks.
+\newblock {\em IEEE Transactions on Network Science and Engineering}, 9(2):648--659, 2022.
+
+\bibitem{Zhao2023Cloud}
+Yue Zhao, Chunjie Zhou, Yu-Chu Tian, Jianhui Yang, and Xiaoya Hu.
+\newblock Cloud-based underactuated resilient control for cyber-physical systems under actuator attacks.
+\newblock {\em IEEE Transactions on Industrial Informatics}, 19(5):6317--6325, 2023.
+
+\bibitem{Zhou2021Unified}
+Chunjie Zhou, Bowen Hu, Yang Shi, Yu-Chu Tian, Xuan Li, and Yue Zhao.
+\newblock A unified architectural approach for cyberattack-resilient industrial control systems.
+\newblock {\em Proceedings of the IEEE}, 109(4):517--541, 2021.
+
+\bibitem{Zhou2015Multimodel}
+Chunjie Zhou, Shuang Huang, Naixue Xiong, Shuang-Hua Yang, Huiyun Li, Yuanqing Qin, and Xuan Li.
+\newblock Design and analysis of multimodel-based anomaly intrusion detection systems in industrial process automation.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics: Systems}, 45(10):1345--1360, 2015.
+
+\bibitem{Zhou2020RiskBased}
+Chunjie Zhou, Xuan Li, Shuanghua Yang, and Yu-Chu Tian.
+\newblock Risk-based scheduling of security tasks in industrial control systems with consideration of safety.
+\newblock {\em IEEE Transactions on Industrial Informatics}, 16(5):3112--3123, 2020.
+
+\end{thebibliography}
